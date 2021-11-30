@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pasta_rizotto",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
